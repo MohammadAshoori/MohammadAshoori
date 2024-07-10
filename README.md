@@ -1,4 +1,4 @@
-<img align="left" height="450" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
+<img align="left" height="300" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
 
 ###
 
@@ -13,6 +13,8 @@
 <p align="left">👨🏼‍🦱 About me :<br>I am Mohammad Ashouri, 👶🏼 born in 22/11/2008 in Iran. 👨🏼‍💻 I entered the field of computers since I was 13 years old, until now I have worked in various fields in an intermediate and professional manner, including hrml, css, python, Django and..., 🙋🏼‍♂️ I am ready to acquire  and improve your work so that you can present and manage your business in the best way.😉</p>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="32" alt="android logo"  />
@@ -57,7 +59,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MohammadAshoori.MohammadAshoori&left_color=aqua&right_color=aliceblue"  />
 </div>
 
 ###
