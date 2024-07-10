@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="450" width="100%" src="https://wallpapers.com/images/high/hello-1920-x-1080-background-42d5gjutaw86a3l6.webp"  />
+  <img width="80%" src="https://wallpapers.com/images/high/hello-1920-x-1080-background-42d5gjutaw86a3l6.webp"  />
 </div>
 
 ###
