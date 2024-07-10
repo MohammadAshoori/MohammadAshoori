@@ -7,6 +7,7 @@
 <p align="left">I am here to improve your business 😉 , I am Mohammad Ashoori , a front-end specialist programmer 🧑‍💻 .</p>
 
 ###
+=============================================================
 
 <p align="left">👨🏼‍🦱 About me :<br>I am Mohammad Ashouri, 👶🏼 born in 22/11/2008 in Iran. 👨🏼‍💻 I entered the field of computers since I was 13 years old, until now I have worked in various fields in an intermediate and professional manner, including hrml, css, python, Django and..., 🙋🏼‍♂️ I am ready to acquire  and improve your work so that you can present and manage your business in the best way.😉</p>
 
@@ -56,6 +57,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MohammadAshoori/MohammadAshoori/output/snake.svg" alt="Snake animation" />
 
-###
